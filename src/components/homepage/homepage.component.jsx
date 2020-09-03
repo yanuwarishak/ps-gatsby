@@ -16,7 +16,7 @@ import {
   ParagraphText,
 } from "./homepage.styles"
 
-import homepageImage from "../../images/programming-amico.png"
+import homepageImage from "../../images/Programming-amico.png"
 
 const Homepage = () => (
   <>
