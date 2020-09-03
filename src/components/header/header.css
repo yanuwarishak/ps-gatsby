@@ -1,0 +1,10 @@
+.link-tag{
+  color: #ffffff;
+}
+
+.link-tag::after {
+    content: '';
+    display: block;
+    width: 25% !important;
+    height: 2px;
+}

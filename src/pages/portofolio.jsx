@@ -2,13 +2,13 @@ import React from "react"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import Homepage from "../components/homepage/homepage.component"
+import PortofolioPage from "../components/portofolio-page/portofolio-page.component"
 
 export default () => (
   <>
-    <SEO title="Home" />
+    <SEO title="Portofolio" />
     <Layout>
-      <Homepage />
+      <PortofolioPage />
     </Layout>
   </>
 )
