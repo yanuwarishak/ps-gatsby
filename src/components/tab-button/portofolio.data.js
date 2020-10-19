@@ -40,7 +40,7 @@ const PORTOFOLIO_DATA = [
     category: "android",
     name: "Vetsured",
     imageUrl: "https://i.ibb.co/TWYCZdQ/vetsured-cover.jpg",
-    link: "https://mobancustomer.herokuapp.com/",
+    link: "https://drive.google.com/drive/folders/1URUip62i4vkG6Rhodczshi0GSOQDz2ZR?usp=sharing",
     description:
       "Vetsured is an application that was developed for my final thesis. It's a Virtual Reality education app that simulates surgery process on animal, specifically dog. This application was developed using Unity3D and utilizing Head-mounted Display for immersive effect.",
   },
@@ -49,7 +49,7 @@ const PORTOFOLIO_DATA = [
     category: "uiux",
     name: "Vetsured UI & UX Design",
     imageUrl: "https://i.ibb.co/TWYCZdQ/vetsured-cover.jpg",
-    link: "https://mobancustomer.herokuapp.com/",
+    link: "https://drive.google.com/drive/folders/1URUip62i4vkG6Rhodczshi0GSOQDz2ZR?usp=sharing",
     description:
       "The UI & UX development from Vetsured was done using User-centered design framework which then evaluated using User Experience Questionnaire.",
   },
@@ -58,7 +58,7 @@ const PORTOFOLIO_DATA = [
     category: "uiux",
     name: "Kitabatik UI & UX Design",
     imageUrl: "https://i.ibb.co/NNHCh7R/kitabatik-cover.jpg",
-    link: "https://mobancustomer.herokuapp.com/",
+    link: "https://drive.google.com/drive/folders/1OGqxsOfHN7QKYH3ktm6KcuEhBI5FzHHF?usp=sharing",
     description:
       "Kitabatik was a team project that was used for competition purpose, we won 3rd place and qualify for another ideation competition. Kitabatik itself was an idea of making a Batik e-commerce where the users could learn the philospy behind the batik's motif.",
   },
